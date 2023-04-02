@@ -1,0 +1,8 @@
+{
+  "/create-event/page": "app/create-event/page.js",
+  "/event-active/page": "app/event-active/page.js",
+  "/event-soon/page": "app/event-soon/page.js",
+  "/event/page": "app/event/page.js",
+  "/page": "app/page.js",
+  "/perfil/page": "app/perfil/page.js"
+}
